@@ -1,6 +1,6 @@
 {
   "name": "instascrape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scrape Instagram user public media without developer account or authentication.",
   "main": "lib/index.js",
   "scripts": {
