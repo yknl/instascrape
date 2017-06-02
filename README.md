@@ -3,7 +3,7 @@
 Scrape Instagram user public media without developer account or authentication. 
 
 Uses the following endpoint:
-https://www.instagram.com/<username>/media/
+https://www.instagram.com/username/media/
 
 ## Install
 
@@ -17,8 +17,8 @@ https://www.instagram.com/<username>/media/
 import instascrape from 'instascrape';
 
 instascrape('username')
-	.then((data) => {
-		// Do something with JSON data
-	});
+  .then((data) => {
+    // Do something with JSON data
+  });
 
 ```
